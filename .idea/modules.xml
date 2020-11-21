@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/base-microservice-config/base-microservice-config.iml" filepath="$PROJECT_DIR$/base-microservice-config/base-microservice-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-microservice-config2/base-microservice-config2.iml" filepath="$PROJECT_DIR$/base-microservice-config2/base-microservice-config2.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-microservice-config3/base-microservice-config3.iml" filepath="$PROJECT_DIR$/base-microservice-config3/base-microservice-config3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/base-microservice-eureka/base-microservice-eureka.iml" filepath="$PROJECT_DIR$/base-microservice-eureka/base-microservice-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-hystrix-dashboard/base-microservice-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/base-microservice-hystrix-dashboard/base-microservice-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-turbine/base-microservice-hystrix-turbine.iml" filepath="$PROJECT_DIR$/base-microservice-turbine/base-microservice-hystrix-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/base-microservice-security/base-microservice-security.iml" filepath="$PROJECT_DIR$/base-microservice-security/base-microservice-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/base-microservice-zuul/base-microservice-zuul.iml" filepath="$PROJECT_DIR$/base-microservice-zuul/base-microservice-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-for-ha-config/eureka-for-ha-config.iml" filepath="$PROJECT_DIR$/eureka-for-ha-config/eureka-for-ha-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/picLib-main.iml" filepath="$PROJECT_DIR$/.idea/picLib-main.iml" />
     </modules>

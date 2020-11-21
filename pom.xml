@@ -8,12 +8,17 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>base-microservice-security</module>
-        <module>base-microservice-eureka</module>
+
         <module>base-microservice-config</module>
         <module>base-microservice-config2</module>
         <module>base-microservice-config3</module>
-        <module>eureka-for-ha-config</module>
 
+        <module>eureka-for-ha-config</module>
+        <module></module>
+        <module>base-microservice-hystrix-dashboard</module>
+
+        <module>base-microservice-hystrix-turbine</module>
+        <module>base-microservice-zuul</module>
 
 
     </modules>

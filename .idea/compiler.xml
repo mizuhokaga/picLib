@@ -6,20 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="base-microservice-eureka" />
-        <module name="base-microservice-security" />
-        <module name="base-microservice-config" />
-        <module name="eureka-for-ha-config" />
         <module name="base-microservice-config3" />
+        <module name="eureka-for-ha-config" />
+        <module name="base-hystrix-dashboard" />
+        <module name="base-microservice-hystrix-dashboard" />
+        <module name="base-microservice-hystrix-turbine" />
+        <module name="base-microservice-security" />
+        <module name="base-microservice-zuul" />
+        <module name="base-microservice-config" />
         <module name="base-microservice-config2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="base-hystrix-dashboard" target="1.8" />
+      <module name="base-microservice-bus" target="1.8" />
       <module name="base-microservice-config" target="1.8" />
       <module name="base-microservice-config2" target="1.8" />
       <module name="base-microservice-config3" target="1.8" />
       <module name="base-microservice-eureka" target="1.8" />
+      <module name="base-microservice-hystrix-dashboard" target="1.8" />
+      <module name="base-microservice-hystrix-turbine" target="1.8" />
       <module name="base-microservice-security" target="1.8" />
+      <module name="base-microservice-zuul" target="1.8" />
       <module name="eureka-for-ha-config" target="1.8" />
       <module name="picLib-main" target="1.8" />
     </bytecodeTargetLevel>
