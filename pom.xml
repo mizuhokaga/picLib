@@ -17,8 +17,10 @@
         <module></module>
         <module>base-microservice-hystrix-dashboard</module>
 
-        <module>base-microservice-hystrix-turbine</module>
+        <module>base-microservice-turbine</module>
         <module>base-microservice-zuul</module>
+        <module>picLib-microservice-provider</module>
+        <module>picLib-microservice-api</module>
 
 
     </modules>
@@ -49,6 +51,7 @@
 
     <dependencyManagement>
         <dependencies>
+
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
